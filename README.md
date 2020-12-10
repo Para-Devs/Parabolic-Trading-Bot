@@ -27,8 +27,8 @@ First we have to acquire your account id for discord to feed to the bot.
 10. Your bot should now be able to sign in as you. 
 
 ### TastyWorks Setup
-Simply navigate to the ```account``` variable and type in your credentials as shown below:
-```account = TastyAPISession(username="YOUR_USER", password="YOUR_PASS")```
+Simply navigate to the ```account``` variable and type in your credentials as shown below: <br>
+```account = TastyAPISession(username="YOUR_USER", password="YOUR_PASS")``` <br>
 If you have multiple tastyworks accounts then just know that the bot will use your first account. 
 
 ## Custom Settings
