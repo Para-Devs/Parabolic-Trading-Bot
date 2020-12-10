@@ -35,6 +35,9 @@ If you have multiple tastyworks accounts then just know that the bot will use yo
 
 To be done.
 
+## Status
+Currently able to buy and sell positions. 
+If you are approved for selling uncovered options do not use! Current error.
 ## TODO
 
 To be done. 
